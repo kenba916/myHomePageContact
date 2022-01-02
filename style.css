@@ -876,7 +876,7 @@ a {
           transform: translateY(-50%);
   width: 16px;
   height: 16px;
-  background: transparent url(../img/check-solid.svg) no-repeat center center/contain;
+  background: transparent url(check-solid.svg) no-repeat center center/contain;
   display: none;
 }
 .form-check [type=checkbox]:checked + span::after {
