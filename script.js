@@ -50,7 +50,7 @@ let $form = $('#js-form')
         $('#js-form input[type="email"]').val() !== "" &&
         $('#js-form textarea').val() !== "" &&
         $('#js-form input[type="text-kana"]').val().match( /^([ァ-ン]|ー)+$/ ) &&
-        $('#js-form input[name="entry.729393355"]').prop( 'checked' ) === true
+        $('#js-form input[name="entry.746260998"]').prop( 'checked' ) === true
     ) {
         $submit.prop('disabled', false)
         $submit.addClass( 'active' )
